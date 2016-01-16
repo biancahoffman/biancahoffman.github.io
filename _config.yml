@@ -1,52 +1,8 @@
-
-# Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
-
-# Permalinks
-permalink:           /:title
-relative_permalinks: true
-
-# Setup
-timezone:            your timezone # eg. Europe/Amsterdam
-locale:              your locale language # eg. en_us
-name:				         Bianca Hoffman
-title:               Bianca Hoffman
-tagline:             'Art Consultant Modern & Contemporary Art'
-description:         'From the Impressionist to the paintings of Anke Roder or the drawings of Juul Kraijer. I create personal art collections.'
-url:                 www.biancahoffman.nl
-rss:                 rss feed url
-baseurl:             '/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
-
+name: Bianca Hoffman
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: www.biancahoffman.nl
 author:
-  name:           	 Bianca Hoffman
-  url:            	 biancahoffman.nl
-  facebook:          username
-  twitter:           80hartjes
-  google_plus:       username
-  linkedin:          https://www.linkedin.com/in/bianca-hoffman
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
-
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
-
-# Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
-
-defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "default"
+    name: Bianca Hoffman
+    twitter: 80hartjes
