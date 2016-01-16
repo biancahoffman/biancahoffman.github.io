@@ -1,12 +1,7 @@
 {
-  "name": "Mickey",
+  "name": "Bianca Hoffman",
   "version": "0.0.1",
-  "description": "A minimal one-column, responsive theme for Jekyll",
-  "homepage": "http://vincentchan.github.io/mickey",
-  "author": "Vincent Chan",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vincentchan"
+  "description": "Art Consultant Modern & Contemporary Art",
   },
   "devDependencies": {
     "browser-sync": "~2.9.7",
