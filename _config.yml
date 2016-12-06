@@ -8,9 +8,9 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Europe/Amsterdam
-locale:              your locale language # eg. en_us
-name:				 Bianca Hoffman
+timezone:            Europe/Amsterdam # eg. Europe/Amsterdam
+locale:              en_us # eg. en_us
+name:				 'Bianca Hoffman'
 title:               Bianca Hoffman
 tagline:             'Art Consultant Modern & Contemporary Art'
 description:         'From the Impressionist to the paintings of Anke Roder or the drawings of Juul Kraijer. I create personal art collections.'
