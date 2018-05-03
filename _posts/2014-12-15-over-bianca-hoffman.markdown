@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Over Bianca Hoffman"
+title:  "Over mij"
 date:   2014-12-15 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Ik ben leergierig, enthousiast, open en gedreven. Ik hou van schoonheid en het verbinden van mensen met kwaliteit in een positieve omgeving."
